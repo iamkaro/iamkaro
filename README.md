@@ -5,6 +5,7 @@
 | <img src=languages/golang.png width=50px>  | GO-Lang               | Senior     | 
 | <img src=languages/php.svg width=50px>     | PHP                   | Senior     |
 | <img src=languages/CSharp.png width=50px>  | C#                    | Senior     |
+| <img src=languages/Verilog.svg width=50px> | Verilog               | Senior     |
 | <img src=languages/js.png width=50px>      | JavaScript + ES6      | Senior     |
 | <img src=languages/sql.svg width=50px>     | SQL                   | Senior     |
 | <img src=languages/css.svg width=50px>     | CSS                   | Senior     |

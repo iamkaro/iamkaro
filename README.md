@@ -2,7 +2,7 @@
 
 |                                            | Programming Languages | Expertise Me |
 |--------------------------------------------|-----------------------|--------------|
-| [<img src=languages/golang.png width=40px>](#gogo)  | GO-Lang               | Senior       | 
+| [<img src=languages/golang.png width=40px>](#)  | GO-Lang               | Senior       | 
 | <img src=languages/php.svg width=40px>     | PHP                   | Senior       |
 | <img src=languages/CSharp.png width=40px>  | C#                    | Senior       |
 | <img src=languages/Verilog.svg width=40px> | Verilog               | Senior       |
